@@ -1,5 +1,3 @@
-#vanshita patil
-
 #import
 
 import streamlit as st
